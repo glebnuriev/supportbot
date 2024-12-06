@@ -1,31 +1,22 @@
-Приветствую Всех, в данном readme файле я вас ознакомлю со своим новым ботом, который начинает свою историю с 29.11.24, бот будет разработан совместно с ***nasirovramin***
+1. Приветствую Всех, в данном readme файле я вас ознакомлю со своим новым ботом, который начинает свою историю с 29.11.24, бот будет разработан совместно с ***nasirovramin***
 
-Функция: Это бот при помошью которого можно задать вопрос к нашему интернет магазину ,и прочее
-вопросы к командам ,и инструментом создание бота вы найдете ниже.
+2. За что отвечает данный бот? Сейчас все разьясним)
+   Данный бот отвечает за поддержку интернет магазина Kodland-store, данный бот поможет вам решить
+   любые проблемы связанные с этим магазином, также бот автоматически отвечает на блок вопросов.
 
-Инструменты: при создании проекта была использована программа **VScode**.
+   ***Обратите внимание:*** чтобы узнать ответ нужно рядом с **a** отметить номер вопроса
 
-Команды: Для того что бы узнать список вопросов напешите Help,Start.
-А для того что бы задать вопросы необходимо написать команду **a1-6**.
-Обратите внимание: чтобы узнать ответ нужно рядом с **a** отметить номер вопроса 
+   Для того что бы узнать список вопросов в боте, используйте команду Help, Start.
 
-Если вы прочитали весь текст ,но у вас остались ешё вопросы 
-***напешите в коментариях** 
----------------------------
----------------------------
-Greetings Everyone, in this readme file I will introduce you to my new bot, which begins its history on 11/29/24, the bot will be developed jointly with nasirovramin
+ 2. Инструменты: при создании проекта была использована программа **VScode** и расщирение для него - SQLite3 editor, документация
+ библиотеки ***Telebot***
 
-Function: This is a bot with which you can ask a question to our online store, etc.
-Questions for the commands and the bot creation tool can be found below.
+ СКРИН КОМАНДЫ
 
-Tools: **VScode** program was used to create the project.
-
-Commands: To find out the list of questions, type Help, Start.
-And in order to ask questions you need to write the command **a1-6**.
-Please note: to find out the answer you need to mark the question number next to **a**
-
-If you have read the entire text but still have questions 
-***write in the comments**
+ А для того что бы задать вопросы необходимо написать команду **a1-a6** (Соответствует номеру вопроса)
+ Ниже приведен пример одной из команд в виде скриншота:
+ 
+ СКРИН КОМАНДЫ
 
 
 
