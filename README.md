@@ -11,8 +11,8 @@
 
 Если вы прочитали весь текст ,но у вас остались ешё вопросы 
 ***напешите в коментариях** 
-
-
+---------------------------
+---------------------------
 Greetings Everyone, in this readme file I will introduce you to my new bot, which begins its history on 11/29/24, the bot will be developed jointly with nasirovramin
 
 Function: This is a bot with which you can ask a question to our online store, etc.
